@@ -1,5 +1,5 @@
-function myF() { //Hierdie Define die function
-    window.alert("json");
+function askname() { 
+    var name = prompt("What is your name?");
+    window.alert("Your name is " + name + " !");
 }
 
-myF(); //Hierdie call die function
