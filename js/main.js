@@ -1,5 +1,5 @@
-function myF() {
+function myF() { //Hierdie Define die function
     window.alert("json");
 }
 
-myF();
+myF(); //Hierdie call die function
